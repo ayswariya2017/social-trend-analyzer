@@ -1,9 +1,4 @@
 # 🌐 Social Media Trend Analyzer
-```markdown
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/social-trend-analyzer)
-```
 
 A powerful Python-based tool that automatically collects and analyzes trending topics across multiple platforms including news sites, GitHub repositories, and social media trends.
 
