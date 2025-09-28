@@ -36,6 +36,9 @@ pip install -r requirements.txt
 # Run the analyzer
 python main.py
 ```
+## SCREENSHOTS
+![Terminal Results](outputs/csv_output.png)
+
 ## 📖 Usage
 
 ## Basic Usage
