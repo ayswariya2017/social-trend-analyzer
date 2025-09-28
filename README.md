@@ -27,7 +27,7 @@ In the latest analysis:
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/social-trend-analyzer.git
+git clone https://github.com/ayswariya2017/social-trend-analyzer.git
 cd social-trend-analyzer
 
 # Install dependencies
@@ -124,9 +124,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Open a Pull Request
 
 ## 📄 License
-```text
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
 ## 👨‍💻 Author
 Ayswariya Annadurai
