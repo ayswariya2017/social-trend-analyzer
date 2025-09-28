@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "total_trends": 30,
+    "sources": {
+      "BBC News": 10,
+      "GitHub": 10,
+      "Twitter": 10
+    },
+    "categories": {
+      "News": 10,
+      "Technology": 10,
+      "Social Media": 10
+    },
+    "average_score": 68.5,
+    "collection_time": "2025-09-28 14:57:58",
+    "analysis_timestamp": "2025-09-28T14:57:58.145458"
+  },
+  "top_trends": [
+    {
+      "platform": "BBC News",
+      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+      "score": 100
+    },
+    {
+      "platform": "GitHub",
+      "title": "Trending: humanlayer/humanlayer",
+      "score": 100
+    },
+    {
+      "platform": "Twitter",
+      "title": "Trending: #Python",
+      "score": 100
+    },
+    {
+      "platform": "BBC News",
+      "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+      "score": 95
+    },
+    {
+      "platform": "GitHub",
+      "title": "Trending: onyx-dot-app/onyx",
+      "score": 92
+    }
+  ],
+  "platform_analysis": {
+    "BBC News": {
+      "count": 10,
+      "average_score": 77.5,
+      "top_trend": "Zelensky condemns 'vile' Russian strikes lasting 12 hours"
+    },
+    "GitHub": {
+      "count": 10,
+      "average_score": 64.0,
+      "top_trend": "Trending: humanlayer/humanlayer"
+    },
+    "Twitter": {
+      "count": 10,
+      "average_score": 64.0,
+      "top_trend": "Trending: #Python"
+    }
+  },
+  "raw_data_count": 30
+}

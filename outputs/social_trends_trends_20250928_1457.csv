@@ -1,0 +1,31 @@
+platform,title,rank,score,url,timestamp,category,description
+BBC News,Zelensky condemns 'vile' Russian strikes lasting 12 hours,1,100,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Sanctions reimposed on Iran 10 years after landmark nuclear deal,2,95,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Argentines demand justice at protest against brutal killings of young women,3,90,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Trump orders deployment of troops to Portland and authorises 'full force',4,85,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,"FBI fires agents pictured kneeling at George Floyd protest, US media report",5,80,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Sanctions reimposed on Iran 10 years after landmark nuclear deal,6,75,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,At least 39 dead in crush at political rally in India,7,70,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Instagram vs reality: Bali is becoming a victim of its own success,8,65,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Have these two Indian scientists found the answer to stop shoes stinking?,9,60,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+BBC News,Argentines demand justice at protest against brutal killings of young women,10,55,https://www.bbc.com/news,2025-09-28 14:57:52.506977,News,
+GitHub,Trending: humanlayer/humanlayer,1,100,https://github.com/humanlayer/humanlayer,2025-09-28 14:57:58.058342,Technology,The best way to get AI coding agents to solve hard problems in complex codebases.
+GitHub,Trending: onyx-dot-app/onyx,2,92,https://github.com/onyx-dot-app/onyx,2025-09-28 14:57:58.058342,Technology,Open Source AI Platform - AI Chat with advanced features that works with every LLM
+GitHub,Trending: coinbase/x402,3,84,https://github.com/coinbase/x402,2025-09-28 14:57:58.058342,Technology,A payments protocol for the internet. Built on HTTP.
+GitHub,Trending: HKUDS/RAG-Anything,4,76,https://github.com/HKUDS/RAG-Anything,2025-09-28 14:57:58.058342,Technology,"""RAG-Anything: All-in-One RAG Framework"""
+GitHub,Trending: gin-gonic/gin,5,68,https://github.com/gin-gonic/gin,2025-09-28 14:57:58.074000,Technology,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+GitHub,Trending: harry0703/MoneyPrinterTurbo,6,60,https://github.com/harry0703/MoneyPrinterTurbo,2025-09-28 14:57:58.074165,Technology,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+GitHub,Trending: frappe/erpnext,7,52,https://github.com/frappe/erpnext,2025-09-28 14:57:58.074165,Technology,Free and Open Source Enterprise Resource Planning (ERP)
+GitHub,Trending: modelcontextprotocol/typescript-sdk,8,44,https://github.com/modelcontextprotocol/typescript-sdk,2025-09-28 14:57:58.074165,Technology,The official TypeScript SDK for Model Context Protocol servers and clients
+GitHub,Trending: ZuodaoTech/everyone-can-use-english,9,36,https://github.com/ZuodaoTech/everyone-can-use-english,2025-09-28 14:57:58.075163,Technology,人人都能用英语
+GitHub,Trending: directus/directus,10,28,https://github.com/directus/directus,2025-09-28 14:57:58.075163,Technology,"The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+Twitter,Trending: #Python,1,100,https://twitter.com/search?q=#Python,2025-09-28 14:57:58.081122,Social Media,Discussion about Python
+Twitter,Trending: #AI,2,92,https://twitter.com/search?q=#AI,2025-09-28 14:57:58.081122,Social Media,Discussion about AI
+Twitter,Trending: #MachineLearning,3,84,https://twitter.com/search?q=#MachineLearning,2025-09-28 14:57:58.081122,Social Media,Discussion about MachineLearning
+Twitter,Trending: #DataScience,4,76,https://twitter.com/search?q=#DataScience,2025-09-28 14:57:58.081122,Social Media,Discussion about DataScience
+Twitter,Trending: #WebDevelopment,5,68,https://twitter.com/search?q=#WebDevelopment,2025-09-28 14:57:58.081122,Social Media,Discussion about WebDevelopment
+Twitter,Trending: #CyberSecurity,6,60,https://twitter.com/search?q=#CyberSecurity,2025-09-28 14:57:58.081122,Social Media,Discussion about CyberSecurity
+Twitter,Trending: #CloudComputing,7,52,https://twitter.com/search?q=#CloudComputing,2025-09-28 14:57:58.081122,Social Media,Discussion about CloudComputing
+Twitter,Trending: #OpenAI,8,44,https://twitter.com/search?q=#OpenAI,2025-09-28 14:57:58.081122,Social Media,Discussion about OpenAI
+Twitter,Trending: #ChatGPT,9,36,https://twitter.com/search?q=#ChatGPT,2025-09-28 14:57:58.081122,Social Media,Discussion about ChatGPT
+Twitter,Trending: #Programming,10,28,https://twitter.com/search?q=#Programming,2025-09-28 14:57:58.081122,Social Media,Discussion about Programming
