@@ -1,5 +1,4 @@
 # 🌐 Social Media Trend Analyzer
-
 A powerful Python-based tool that automatically collects and analyzes trending topics across multiple platforms including news sites, GitHub repositories, and social media trends.
 
 ## 🚀 Features
